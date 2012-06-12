@@ -1,0 +1,34 @@
+body  {
+	text-align:center;
+	font:10px Verdana, Arial, Helvetica, sans-serif;
+	}
+
+#cabecera {
+	width:1050px;
+	margin:0 auto;
+	padding:5px;
+	text-align:left;	
+	height:auto;
+	}
+	
+#contenido {
+	width:1050px;
+	margin:0 auto;
+	padding:5px;
+	text-align:left;	
+	height:100px;
+	}
+
+#izquierda {
+		float:left;
+		width: auto;		
+		padding: 1px 1px 1px 1px;
+		height:auto;
+}	
+
+#derecha {
+		float:right;
+		width:auto;		
+		padding: 1px 1px 1px 1px;
+		height:auto;
+}	
